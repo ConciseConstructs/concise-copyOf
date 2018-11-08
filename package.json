@@ -1,0 +1,34 @@
+{
+  "name": "concise-copyof",
+  "version": "1.0.0",
+  "description": "Returns a unique copy of a reference type variable such as an Array or Object.",
+  "main": "copyOf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConciseConstructs/concise-copyOf.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "node",
+    "nodejs",
+    "variable",
+    "variables",
+    "copy",
+    "replicate",
+    "array",
+    "object",
+    "reference",
+    "type",
+    "types"
+  ],
+  "author": "Concise Constructs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConciseConstructs/concise-copyOf/issues"
+  },
+  "homepage": "https://github.com/ConciseConstructs/concise-copyOf#readme"
+}
